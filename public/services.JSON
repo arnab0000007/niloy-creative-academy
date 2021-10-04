@@ -1,0 +1,75 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "name": "Guitar Pro",
+        "duration": 4,
+        "description":"New to Guitar? This Will be the Only Course You Will Ever Need to Take.Most Logical Step-by-step Method to Play Songs and Master Chords, Scales and Guitar Theory.Have You Playing the Guitar in the Shortest Amount of Time While Having the Most Fun",
+        "img": "https://i.ibb.co/BBdfBbM/guitar.jpg",
+        "price": 650
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "name": "Violin A to Z",
+        "duration": 5,
+        "description":"Learn in-depth understanding on how to play the violin from scratch while learning time tested beautiful songs on the violin.Learn to Read Music and beyond, understanding the Music Theory behind the Music, the understanding of why you're learning key concepts to succeed in a big way",
+        "img": "https://i.ibb.co/hdwvBS8/violin.jpg",
+        "price": 400
+    },
+    {
+        "key": "B01LD44GY4",
+        "name": "Piano-Every thing",
+        "duration": 4,
+        "description":"Pianoforall will take complete beginners to an intermediate level in a very short space of time.You will learn the absolute basic essential techniques that will allow you to play any song in any style - by ear!",
+        "img": "https://i.ibb.co/TWXgnLJ/piano.jpg",
+        "price": 500
+    },
+    {
+        "key": "B01LD4MGY4",
+        "name": "Mastering Vocal",
+        "duration": 6,
+        "description":"Extend Your Vocal Range.Learn Vocal Distortion & Vocal Rasp Techniques.Develop Your Head Voice for a Four Octave Range.Customize Your Own Vocal Workouts To Fix YOUR Unique Vocal Problems.How to Train The Voice for Contemporary Styles. NOT Classical.",
+        "img": "https://i.ibb.co/mX3frLX/vocal.jpg",
+        "price": 350
+    },
+    {
+        "key": "B01M18UZF5",
+        "name": "Become Drum Hero",
+        "duration": 5,
+        "description":"Learn different Rhythms that make up everything we play on the drums.Learn to play Rock Grooves - Impress your friends with your excellent beats.Learn different Styles of Drumming - Latin, March, Blues, Reggae.Learn to play Rudiments - Patterns that are the building blocks of drumming",
+        "img": "https://i.ibb.co/QjLJNtX/drum.jpg",
+        "price": 600
+    },
+    {
+        "key": "B01DBGVB7K",
+        "name": "Saxophone pro",
+        "duration": 4,
+        "description":"Assemble and care for a saxophone.Read and interpret music notation.Perform multiple Major scales.Form a correct, strong saxophone embouchure.Recognize and play nearly every note on the saxophone.Play dozens of popular melodies and songs",
+        "img": "https://i.ibb.co/RHP8RTN/saxophone.jpg",
+        "price": 350
+    },
+    {
+        "key": "B015WXL0C6",
+        "name": "DJ & Composing",
+        "duration": 3,
+        "description":"How to Jumpstart Your DJ Career and Mix Like a PRO.Master Traktor and All Its Functions.How to Use Effects, Filters and Loops Effectively.How to use the Mixer.How to Create a DJ Set from Scratch.Advanced Use of Effects, Filters and Loop",
+        "img": "https://i.ibb.co/0hTnRh7/dj.jpg",
+        "price": 450
+    },
+    {
+        "key": "B06Y4GZS9C",
+        "name": "Art and Drawing",
+        "duration": 5,
+        "description":"Understand the fundamentals of art.Draw the human face and figure.Draw perspective drawings.Draw objects out of your head",
+        "img": "https://i.ibb.co/RN3zDBw/art.jpg",
+        "price": 470
+    },
+    {
+        "key": "B06XJJG4PD",
+        "name": "Dance Like A pro",
+        "duration": 3,
+        "description":"Comfortably perform hip hop choreography.Know how to perform without a boring facial expression.Understand basic hip hop grooves, movement, and footowork.Use the choreography for their own purposes (wedding dance routines, quinceanera, etc)",
+        "img": "https://i.ibb.co/KG7C1bs/dance.jpg",
+        "price": 480
+    }
+    
+]

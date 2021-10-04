@@ -1,0 +1,24 @@
+/* Banner part css */
+.background-image{
+  background-image: url('https://i.ibb.co/16rZxLr/banner.jpg');
+  height:700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-text{
+  padding-top: 150px;
+ 
+}
+.text{
+  color: #fff;
+  background-color: rgba(65, 58, 58, 0.596);
+  padding: 40px 0px;
+}
+.text h1{
+  font-size: 40px;
+}
+.text h2{
+  font-size: 60px;
+  color: rgb(245, 223, 223);
+}
